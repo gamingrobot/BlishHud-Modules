@@ -4,7 +4,7 @@
   "namespace": "grbt.cursorlock",
   "package": "CursorLock.dll",
   "manifest_version": 1,
-  "description": "Locks your cursor to the GW2 window, useful for action cam",
+  "description": "Keeps the cursor locked to the GW2 window when GW2 is in-focus, useful for action cam",
   "dependencies": {
     "bh.blishhud": ">=1.0.0"
   },

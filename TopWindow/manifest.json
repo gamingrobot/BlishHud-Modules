@@ -4,7 +4,7 @@
   "namespace": "grbt.topwindow",
   "package": "TopWindow.dll",
   "manifest_version": 1,
-  "description": "Keeps the specified window on-top and unclickable when GW2 is in focus",
+  "description": "Keeps the specified window on-top and unclickable when GW2 is in-focus",
   "dependencies": {
     "bh.blishhud": ">=1.0.0"
   },
