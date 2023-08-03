@@ -1,0 +1,22 @@
+{
+  "name": "Top Window",
+  "version": "0.0.1",
+  "namespace": "grbt.topwindow",
+  "package": "TopWindow.dll",
+  "manifest_version": 1,
+  "description": "Keeps the specified window on-top and unclickable when GW2 is in focus",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/gamingrobot/BlishHud-Modules/TopWindow",
+  "contributors": [
+    {
+      "name": "gamingrobot",
+      "username": "GamingRobot.1894",
+      "url": "https://github.com/gamingrobot"
+    }
+  ],
+  "enabled_without_gw2": false,
+  "api_permissions": {
+  }
+}

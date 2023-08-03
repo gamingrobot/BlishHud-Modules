@@ -1,0 +1,22 @@
+{
+  "name": "Cursor Lock",
+  "version": "0.0.1",
+  "namespace": "grbt.cursorlock",
+  "package": "CursorLock.dll",
+  "manifest_version": 1,
+  "description": "Locks your cursor to the GW2 window, useful for action cam",
+  "dependencies": {
+    "bh.blishhud": ">=1.0.0"
+  },
+  "url": "https://github.com/gamingrobot/BlishHud-Modules/CursorLock",
+  "contributors": [
+    {
+      "name": "gamingrobot",
+      "username": "GamingRobot.1894",
+      "url": "https://github.com/gamingrobot"
+    }
+  ],
+  "enabled_without_gw2": false,
+  "api_permissions": {
+  }
+}
